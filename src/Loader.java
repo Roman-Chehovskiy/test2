@@ -40,6 +40,8 @@ public class Loader {
                 break;
             case 4:
                 System.exit(0);
+                System.exit(0);
+
         }
     }
 
